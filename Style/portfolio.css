@@ -13,11 +13,11 @@ header{
 }
 .btn-primary{
     color: rgb(252, 253, 255);
-    font-weight: 700;
+    font-weight: 800;
     font-size: 20px;
     border: 0;
-    padding: 18px 35px;
-    height: 64px;
+    padding: 5px 35px;
+    height: 50px;
     border-radius: 5px;
     background: #FD6E0A;
 }
@@ -26,7 +26,7 @@ header{
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 68px 200px;
 }
 nav ul{
     display: flex;
@@ -36,7 +36,7 @@ nav li{
     margin-left: 50px;
 }
 .nav-title{
-    font-weight: 800;
+    font-weight: 700px;
     font-size: 45px;
 }
 
